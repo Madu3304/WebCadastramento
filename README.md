@@ -6,11 +6,13 @@ Sistema será desenvolvido para a Ong Pernas Solidárias, tem como objetivo prin
 Objetivo do software é otimizar o processo de inscrição de corredores, cadeirantes para atividades esportivas, funcionando como uma agenda otimizada.
 
 1.0) Objetivos do Projeto:
+
 1.1 Desenvolver um sistema web intuitivo e de fácil utilização para o cadastro de corredores, cadeirantes e cadeirantes que já possuem sua própria cadeira.
 
-1.2. Implementar funcionalidades de cadastro, edição e exclusão de informações dos corredores.
+1.2. Implementar funcionalidades de cadastro, edição e exclusão de informações dos corredores
 
 1.3. Fornecer relatórios dos corredores cadastrados para inscrição em sites. 
+
 -----
 2.0) Equipe de Desenvolvimento:
 O desenvolvimento do projeto será realizado por dois desenvolvedores:

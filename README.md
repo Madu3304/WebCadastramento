@@ -32,18 +32,48 @@ A arquitetura do sistema será baseada na seguinte stack de desenvolvimento:
 4.0) Funcionalidades Principais não funcionais:
 
 4.1. Funcionais:
-4.1.1. Registro de novos corredores com dados pessoais
+
+4.1.1. Registro de novos corredores com dados pessoais.
+
 4.1.2. Validação de dados obrigatórios
-4.1.3. Emissão de m relatório com nomes dos corredores. 
+
+4.1.3. Emissão do relatório com nomes dos corredores com suas duplas. 
+
 4.1.4. Registro de Corridas.
+
 4.1.5. Apresentar lista com funcionalidade de vincular corredor e cadeirante.
-4.1.6. Controle de status das inscrições(pagamento)
+
+4.1.6. Controle de status das inscrições(pagamento).
+
 
 4.2.  Não Funcionais:
-4.2.1. apresentar uma lista de corredores.
-4.2.2. apresentar uma lista de cadeirantes.
+
+4.2.1. apresentar uma lista de corredores na tela.
+
+4.2.2. apresentar uma lista de cadeirantes na tela.
+
 4.2.3. apresentar uma lista de cadeirantes que possuem sua cadeira. 
+
 4.2.4. Login e controle de acesso.
+
+4.2.5. Atualização da tela de graficos após adicionar algum dado. 
+
+4.2.6. Atualização da tela de membros após adicionar algum membro.
+
+
+> A seguir apresentação do software no canva:
+https://www.canva.com/design/DAGgJffJCYk/ViDorR_SujCG4ZiUTeNCqA/edit?utm_content=DAGgJffJCYk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+> A seguir apresentação do software no figma:
+https://www.figma.com/design/lDpXeBYppONI9Gug3MTxNu/Projeto-Pernas-Solidarias?node-id=0-1&m=dev&t=SwZWadsFRWJbEPdP-1
+
+-----
+Arquitetura:
+
+- Utilizaremos modelo monólitico, mantendo tudo no mesmo servidor, por se tratar de um software que não se encaixa em uma estrutura microserver. 
+
+
 
 -----
 5. Cronograma de Entregas (Quinzenal), levando em consideração que ambos os desenvolvedores dividiram cada atividade:
@@ -54,14 +84,17 @@ Definição do banco de dados e estrutura inicial do back-end.
 22/03/2025
 Desenvolvimento dos endpoints de cadastro de corredores.
 
+29/03/2025
+Andamento de 50% do trabalho. 
+
 05/04/2025
 Implementação do front-end para cadastro e listagem de corredores.
 
 19/04/2025
-Autenticação de usuários e proteção de rotas
+Autenticação de usuários e adicionar o token.
 
 03/05/2025
-Desenvolvimento do módulo de inscrições
+integração do back com o front.
 
 17/05/2025
 Implementação dos relatórios e exportação, Funcionalidades de integração

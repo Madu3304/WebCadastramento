@@ -71,9 +71,12 @@ https://www.figma.com/design/lDpXeBYppONI9Gug3MTxNu/Projeto-Pernas-Solidarias?no
 -----
 Arquitetura:
 
-- Utilizaremos modelo monólitico, mantendo tudo no mesmo servidor, por se tratar de um software que não se encaixa em uma estrutura microserver. 
+- Utilizaremos modelo monólitico, mantendo tudo no mesmo servidor.
 
+tela reresentado a Arquietura na tela 10: 
+https://www.canva.com/design/DAGgJffJCYk/ViDorR_SujCG4ZiUTeNCqA/edit 
 
+Não usaremos APIs, está no mesmo local, com base nesta questão nossa arquitetura se encaixa nas caracteriza-se com monolítica, com isso usaremos o padrão de design MVC.
 
 -----
 5. Cronograma de Entregas (Quinzenal), levando em consideração que ambos os desenvolvedores dividiram cada atividade:

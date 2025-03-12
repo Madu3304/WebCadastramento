@@ -17,7 +17,7 @@ Objetivo do software é otimizar o processo de inscrição de corredores, cadeir
 2.0) Equipe de Desenvolvimento:
 O desenvolvimento do projeto será realizado por dois desenvolvedores:
 
-Luiz Felipe Schroder Marcon
+Luiz Felipe Schroder Marcon e
 Maria Eduarda Nunes de Souza
 -----
 3.0) Tecnologias Utilizadas:
@@ -35,15 +35,13 @@ A arquitetura do sistema será baseada na seguinte stack de desenvolvimento:
 
 4.1.1. Registro de novos corredores com dados pessoais.
 
-4.1.2. Validação de dados obrigatórios
+4.1.2. Emissão do relatório com nomes dos corredores com suas duplas. 
 
-4.1.3. Emissão do relatório com nomes dos corredores com suas duplas. 
+4.1.3. Registro de Corridas.
 
-4.1.4. Registro de Corridas.
+4.1.4. Apresentar lista com funcionalidade de vincular corredor e cadeirante.
 
-4.1.5. Apresentar lista com funcionalidade de vincular corredor e cadeirante.
-
-4.1.6. Controle de status das inscrições(pagamento).
+4.1.5. Controle de status das inscrições(pagamento).
 
 
 4.2.  Não Funcionais:
@@ -54,11 +52,13 @@ A arquitetura do sistema será baseada na seguinte stack de desenvolvimento:
 
 4.2.3. apresentar uma lista de cadeirantes que possuem sua cadeira. 
 
-4.2.4. Login e controle de acesso.
+4.2.4. Login e controle de acesso(Token).
 
 4.2.5. Atualização da tela de graficos após adicionar algum dado. 
 
 4.2.6. Atualização da tela de membros após adicionar algum membro.
+
+4.2.7. Validação de dados obrigatórios, validação simples para verificar se o campo foi preenchido, questão de caracteres não será permitido e somente prosseguir se todos os campos foresm preenchidos corretamente *****************
 
 
 > A seguir apresentação do software no canva:
